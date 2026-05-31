@@ -57,7 +57,7 @@ node_modules\@oai\sky\bin\windows\codex-computer-use.exe
 这几个脚本现在使用相对路径推导插件根目录，所以它们可以稳定放在：
 
 ```text
-26.527.31326\scripts
+scripts
 ```
 
 不再依赖临时 Codex 会话目录。
